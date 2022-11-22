@@ -29,14 +29,14 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_15 = function() {
+(lib.CachedBmp_13 = function() {
 	this.initialize(ss["思緒_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_14 = function() {
+(lib.CachedBmp_12 = function() {
 	this.initialize(ss["思緒_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
@@ -332,7 +332,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(mask_1).to({graphics:null,x:0,y:0}).wait(58).to({graphics:mask_1_graphics_58,x:64.25,y:39.3}).wait(1).to({graphics:mask_1_graphics_59,x:68.75,y:41.675}).wait(1).to({graphics:mask_1_graphics_60,x:73.45,y:46.85}).wait(1).to({graphics:mask_1_graphics_61,x:76.4,y:51.225}).wait(1).to({graphics:mask_1_graphics_62,x:77.3,y:57.8}).wait(1).to({graphics:mask_1_graphics_63,x:82.4,y:65.025}).wait(1).to({graphics:mask_1_graphics_64,x:82.4,y:75.525}).wait(1).to({graphics:mask_1_graphics_65,x:82.4,y:85.275}).wait(1).to({graphics:mask_1_graphics_66,x:82.4,y:95.625}).wait(1).to({graphics:mask_1_graphics_67,x:84.2,y:100.575}).wait(1).to({graphics:mask_1_graphics_68,x:93.65,y:106.775}).wait(1).to({graphics:mask_1_graphics_69,x:103.15,y:106.775}).wait(1).to({graphics:mask_1_graphics_70,x:110.55,y:106.775}).wait(1).to({graphics:mask_1_graphics_71,x:113.65,y:106.775}).wait(1).to({graphics:mask_1_graphics_72,x:117.55,y:106.775}).wait(1).to({graphics:mask_1_graphics_73,x:117.575,y:106.775}).wait(1).to({graphics:mask_1_graphics_74,x:117.575,y:106.775}).wait(1).to({graphics:mask_1_graphics_75,x:117.575,y:106.775}).wait(1).to({graphics:mask_1_graphics_76,x:117.575,y:106.775}).wait(44));
 
 	// 澄
-	this.instance = new lib.CachedBmp_14();
+	this.instance = new lib.CachedBmp_12();
 	this.instance.setTransform(0,-0.05,0.5,0.5);
 	this.instance._off = true;
 
@@ -431,7 +431,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(mask_3).to({graphics:mask_3_graphics_0,x:66.95,y:402.3}).wait(1).to({graphics:mask_3_graphics_1,x:72.95,y:396.8}).wait(1).to({graphics:mask_3_graphics_2,x:76.05,y:389.825}).wait(1).to({graphics:mask_3_graphics_3,x:76.15,y:382.8}).wait(1).to({graphics:mask_3_graphics_4,x:77.65,y:373.05}).wait(1).to({graphics:mask_3_graphics_5,x:77.65,y:364.55}).wait(1).to({graphics:mask_3_graphics_6,x:77.65,y:356.575}).wait(1).to({graphics:mask_3_graphics_7,x:77.65,y:348.325}).wait(1).to({graphics:mask_3_graphics_8,x:77.65,y:340.575}).wait(1).to({graphics:mask_3_graphics_9,x:77.65,y:333.3}).wait(1).to({graphics:mask_3_graphics_10,x:77.65,y:328.55}).wait(1).to({graphics:mask_3_graphics_11,x:77.65,y:323.075}).wait(1).to({graphics:mask_3_graphics_12,x:79.05,y:318.575}).wait(1).to({graphics:mask_3_graphics_13,x:85.8,y:315.575}).wait(1).to({graphics:mask_3_graphics_14,x:91.525,y:315.575}).wait(1).to({graphics:mask_3_graphics_15,x:99.75,y:315.575}).wait(1).to({graphics:mask_3_graphics_16,x:106.3,y:315.575}).wait(1).to({graphics:mask_3_graphics_17,x:111.575,y:315.575}).wait(1).to({graphics:mask_3_graphics_18,x:116.35,y:315.575}).wait(1).to({graphics:mask_3_graphics_19,x:121.55,y:315.575}).wait(1).to({graphics:mask_3_graphics_20,x:122.8,y:307.575}).wait(1).to({graphics:mask_3_graphics_21,x:122.8,y:301.325}).wait(1).to({graphics:mask_3_graphics_22,x:122.8,y:297.325}).wait(1).to({graphics:mask_3_graphics_23,x:122.8,y:297.325}).wait(1).to({graphics:mask_3_graphics_24,x:122.8,y:297.325}).wait(1).to({graphics:mask_3_graphics_25,x:122.8,y:297.325}).wait(1).to({graphics:mask_3_graphics_26,x:122.8,y:297.325}).wait(1).to({graphics:mask_3_graphics_27,x:122.8,y:297.325}).wait(1).to({graphics:mask_3_graphics_28,x:122.8,y:297.325}).wait(1).to({graphics:mask_3_graphics_29,x:120.8,y:297.325}).wait(1).to({graphics:mask_3_graphics_30,x:120.8,y:297.325}).wait(1).to({graphics:mask_3_graphics_31,x:120.8,y:297.325}).wait(1).to({graphics:mask_3_graphics_32,x:120.8,y:297.325}).wait(1).to({graphics:mask_3_graphics_33,x:120.8,y:297.325}).wait(1).to({graphics:mask_3_graphics_34,x:120.8,y:297.325}).wait(86));
 
 	// 澄
-	this.instance_1 = new lib.CachedBmp_15();
+	this.instance_1 = new lib.CachedBmp_13();
 	this.instance_1.setTransform(0,-0.05,0.5,0.5);
 
 	var maskedShapeInstanceList = [this.instance_1];
@@ -1317,7 +1317,7 @@ if (reversed == null) { reversed = false; }
 
 	// 紫
 	this.instance_2 = new lib.紫();
-	this.instance_2.setTransform(289.45,454.65,1,1,0,0,0,147,210.7);
+	this.instance_2.setTransform(297.45,454.65,1,1,0,0,0,147,210.7);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(1));
 
@@ -1343,7 +1343,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(440,563,117,103.79999999999995);
+p.nominalBounds = new cjs.Rectangle(448,563,109,103.79999999999995);
 // library properties:
 lib.properties = {
 	id: 'D61728C4621CF54C8403E4DE4B61C9AE',
@@ -1353,9 +1353,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/思緒_atlas_1.png?1669117084119", id:"思緒_atlas_1"},
-		{src:"images/思緒_atlas_2.png?1669117084119", id:"思緒_atlas_2"},
-		{src:"images/思緒_atlas_3.png?1669117084119", id:"思緒_atlas_3"}
+		{src:"images/思緒_atlas_1.png?1669117612816", id:"思緒_atlas_1"},
+		{src:"images/思緒_atlas_2.png?1669117612816", id:"思緒_atlas_2"},
+		{src:"images/思緒_atlas_3.png?1669117612816", id:"思緒_atlas_3"}
 	],
 	preloads: []
 };
